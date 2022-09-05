@@ -1,2 +1,3 @@
 # Repositório do desafio de projeto sobre git/github
-DESAFIO DE PROJETO SOBRE GIT/GITHUB
+Sistema de prefeitura utilizando a liguagem C
+   Possui funcionalidades do CRUD básico e geração de relatório.
